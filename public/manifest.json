@@ -1,0 +1,16 @@
+{
+  "name": "PV",
+  "short_name": "PV",
+  "description": "Portafolio personal de Piero Benjamin Ayvar Valdez, estudiante de Ingeniería de Software en la UPC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#0070f3",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
